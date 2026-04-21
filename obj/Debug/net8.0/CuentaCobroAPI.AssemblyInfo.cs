@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentaCobroAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb0e4633c515b2bcd24dbdc3b6e2bb4e2793c91")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentaCobroAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentaCobroAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
