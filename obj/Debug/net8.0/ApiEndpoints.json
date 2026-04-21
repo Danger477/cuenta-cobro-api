@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CuentaCobroAPI.Controllers.CuentaCobroController",
+    "Method": "GenerarPDF",
+    "RelativePath": "api/CuentaCobro/generar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CuentaCobroAPI.Controllers.FechaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

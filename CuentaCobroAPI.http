@@ -1,0 +1,6 @@
+@CuentaCobroAPI_HostAddress = http://localhost:5080
+
+GET {{CuentaCobroAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
